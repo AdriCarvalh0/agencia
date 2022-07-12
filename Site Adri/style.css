@@ -1,0 +1,66 @@
+* {
+        font-family:Verdana, Geneva, sans-serif;
+        font-size:12px;
+    }
+    
+    .baner {
+        background-image: url("https://img.freepik.com/fotos-gratis/planejamento-e-equipamento-de-turismo-necessarios-para-a-viagem-no-mapa_11304-1610.jpg?w=2000");
+        width:100%;
+        position: absolute;
+        height: 95vh;
+        width: 100vw;
+        font-weight: bold;
+        color: black;
+        font-size: 32px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin: 0 auto;
+        text-align: center;
+      }
+
+      .baner_contatos{
+        background-image: url("https://miro.medium.com/max/1400/0*BQeFW6a_6yPSHHww");
+        position: absolute;
+        height: 95vh;
+        width: 100vw;
+        font-weight: bold;
+        color: black;
+        font-size: 32px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin: 0 auto;
+        text-align: center;
+      }
+
+      h1{
+        text-align: center;
+        margin-top: 400px;
+        align-items: center;
+        font-size: 56px;
+      }
+
+      #btn{
+        margin: 0 auto;
+        color:black;
+        font-weight: bold;
+        font-size: 22px;
+        text-align: center;
+      }
+
+   .card_img{
+    height:300px;
+    width: 600x;
+   }
+
+   .card-group{
+    padding: 30px;
+   }
+   .card{
+    margin: 50px;
+   }
+  
+   #titulo{
+    font-size: 80px;
+    text-align: center;
+    margin-top: 20px;
+   }
